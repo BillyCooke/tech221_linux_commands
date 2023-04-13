@@ -1,4 +1,4 @@
-# Linux commands used in Git
+# Linux commands
 * ```ls``` Shows the folders available in your current location
 * ```ls -a``` Shows the folders available plus any hidden folders
 * ```whoami``` States the name
